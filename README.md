@@ -1,4 +1,4 @@
-# Hi, I'm Héctor 👋
+# Hi, I'm Héctor 
 
 **AI Engineering student at ESCOM-IPN (Mexico City) focused on Machine Learning and Data Science.**
 
