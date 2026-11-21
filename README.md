@@ -48,5 +48,5 @@ I like taking a problem from raw, messy data all the way to a model that works a
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-alvarado-b66a16424)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-alvaradop)
 [![Email](https://img.shields.io/badge/Email-hgalvaradot%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hgalvaradot@gmail.com)
